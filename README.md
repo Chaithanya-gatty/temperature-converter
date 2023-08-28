@@ -1,5 +1,6 @@
 # temperature-converter
-It is website created using html, css and javascript
+IT IS THE WEBSITE CREATED USING HTML,CSS AND JAVASCRIPT
 
- Bharat intern
-It is the task-2 provided by bharat intern
+## BHARAT INTERN
+IT IS TASK-2 PROVIDED BY BHARAT INTERN
+
